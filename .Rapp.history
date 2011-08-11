@@ -1,0 +1,47 @@
+q()
+help
+help()
+defaults write org.R-project.R force.LANG en_US.UTF-8
+library(RMySQL)
+con <- dbConnect(MySQL(), user="root", password="", dbname="sophian_test")
+con <- dbConnect(MySQL(), user="root", password="", dbname="test")
+dbListTables(con)
+con2 <- (MySQL(), user="sbensaou", password="KamAnB3ret8", dbname="edge_production", host="127.0.0.1", port="3307")
+con2 <- dbConnect(MySQL(), user="sbensaou", password="KamAnB3ret8", dbname="edge_production", host="127.0.0.1", port="3307")
+con2 <- dbConnect(MySQL(), user="sbensaou", password="KamAnB3ret8", dbname="edge_production", host="127.0.0.1", port=3307)
+dbListTables(con)
+dbListTables(con2)
+dbGetQuery(con2, "SELECT COUNT(DISTINCT users.id) FROM users WHERE users.interface_language_id IN (1819, 2723) AND users.groups_count = 0 AND users.created_at BETWEEN '2011-02-28 15:00:00' AND '2011-03-31 14:59:59'")
+con <- dbConnect(MySQL(), user="sbensaou", password="KamAnB3ret8", dbname="edge_production", host="127.0.0.1", port=3307)
+dbGetQuery(con, "SELECT COUNT(DISTINCT users.id) FROM users WHERE users.interface_language_id IN (1819, 2723) AND users.groups_count = 0 AND users.created_at BETWEEN '2011-02-28 15:00:00' AND '2011-03-31 14:59:59'")
+dbGetQuery(con,#
+	"SELECT DATE_FORMAT(CONVERT_TZ(users.created_at, '+00:00', '+09:00'), '%Y-%m') AS month_created_at,#
+			COUNT(DISTINCT users.id) AS user_count#
+	FROM users#
+	WHERE users.interface_language_id IN (1819, 2723)#
+	AND users.groups_count = 0#
+	AND users.created_at BETWEEN '2011-02-28 15:00:00' AND '2011-07-31 14:59:59'#
+	GROUP BY month_created_at")
+monthly.registration <- dbGetQuery(con,#
+	"SELECT DATE_FORMAT(CONVERT_TZ(users.created_at, '+00:00', '+09:00'), '%Y-%m') AS month_created_at,#
+			COUNT(DISTINCT users.id) AS user_count#
+	FROM users#
+	WHERE users.interface_language_id IN (1819, 2723)#
+	AND users.groups_count = 0#
+	AND users.created_at BETWEEN '2011-02-28 15:00:00' AND '2011-07-31 14:59:59'#
+	GROUP BY month_created_at")
+class(monthly.registration)
+monthly.registration[0:2]
+monthly.registration[user_count]
+setwd('/Users/sophian/git/baguette')
+setwd("/Users/sophian/git/baguette/learn_reshape_package/")#
+handedness <- read.table("WikipediaHandedness.csv", header=T, sep=",")
+setwd('/Users/sophian/git/baguette')
+head(handedness)
+setwd('/Users/sophian/git/baguette')
+head(handedness)
+setwd('/Users/sophian/git/baguette')
+table(handedness)
+setwd('/Users/sophian/git/baguette')
+set.seed(123)#
+fav.col = sample(c("red", "green", "blue"), 12, replace = T)

@@ -1,0 +1,306 @@
+Representative,Region,Month,Publisher,Subject,Sales,Margin,Quantity
+Raj,S,1997-01-01,SAGE,Management,135,63.45,9
+Raj,S,1997-01-01,Routledge,Statistics,120,48,6
+Raj,S,1997-01-01,Penguin,Economics,54,22.68,4
+Raj,S,1997-01-01,Routledge,Fiction,234,128.7,9
+Soni,S,1997-01-01,Penguin,Politics,54,22.68,4
+Soni,S,1997-01-01,SAGE,Politics,185.4,100.12,12
+Soni,S,1997-01-01,Penguin,Statistics,90,46.8,5
+Soni,S,1997-01-01,Penguin,Economics,54,24.3,4
+Soni,S,1997-01-01,SAGE,Statistics,185.4,83.43,12
+Soni,S,1997-01-01,SAGE,Economics,145,71.05,10
+Gajanan,N,1997-01-01,SAGE,Anthropology,185.4,100.12,12
+Gajanan,N,1997-01-01,SAGE,Anthropology,72,39.6,6
+Gajanan,N,1997-01-01,Bloomsbury,Economics,132,58.08,12
+Priya,N,1997-01-01,McGraw-Hill,Politics,165,75.9,5
+Priya,N,1997-01-01,Bloomsbury,Fiction,130.5,69.17,9
+Priya,N,1997-01-01,McGraw-Hill,Sociology,165,77.55,5
+Sree Hari,W,1997-01-01,Viva,Management,282,138.18,12
+Shreerang,W,1997-01-01,McGraw-Hill,Sociology,282,149.46,12
+Shreerang,W,1997-01-01,McGraw-Hill,Fiction,235.2,94.08,12
+Shreerang,W,1997-01-01,Bloomsbury,Politics,132,50.16,12
+Shreerang,W,1997-01-01,SAGE,Anthropology,104.4,48.02,9
+Shreerang,W,1997-01-01,McGraw-Hill,Management,235.2,129.36,12
+Shreerang,W,1997-01-01,McGraw-Hill,History,282,109.98,12
+Raj,S,1997-02-01,SAGE,Research,135,63.45,9
+Raj,S,1997-02-01,Routledge,Economics,234,121.68,9
+Raj,S,1997-02-01,SAGE,Communication,135,55.35,9
+Raj,S,1997-02-01,Viva,Statistics,282,138.18,12
+Soni,S,1997-02-01,Penguin,Politics,54,25.92,4
+Soni,S,1997-02-01,SAGE,Politics,185.4,101.97,12
+Soni,S,1997-02-01,Penguin,Management,54,20.52,4
+Soni,S,1997-02-01,SAGE,Sociology,72,36,6
+Gajanan,N,1997-02-01,Penguin,Statistics,90,46.8,5
+Gajanan,N,1997-02-01,Routledge,Sociology,234,91.26,9
+Gajanan,N,1997-02-01,SAGE,Management,135,71.55,9
+Gajanan,N,1997-02-01,Viva,Anthropology,282,152.28,12
+Gajanan,N,1997-02-01,Routledge,Sociology,234,114.66,9
+Gajanan,N,1997-02-01,Penguin,History,90,45,5
+Shreekanth,W,1997-02-01,SAGE,Politics,72,37.44,6
+Sree Hari,W,1997-02-01,McGraw-Hill,Anthropology,282,143.82,12
+Shreekanth,W,1997-02-01,McGraw-Hill,Statistics,165,75.9,5
+Shreerang,W,1997-02-01,SAGE,Communication,186,79.98,12
+Soni,S,1997-03-01,Routledge,Statistics,234,121.68,9
+Soni,S,1997-03-01,SAGE,Communication,135,55.35,9
+Raj,S,1997-03-01,Viva,Anthropology,282,138.18,12
+Raj,S,1997-03-01,Penguin,Statistics,54,25.92,4
+Raj,S,1997-03-01,SAGE,Sociology,185.4,101.97,12
+Raj,S,1997-03-01,Penguin,Anthropology,54,20.52,4
+Soni,S,1997-03-01,SAGE,Anthropology,72,36,6
+Priya,N,1997-03-01,Routledge,Economics,120,49.2,6
+Priya,N,1997-03-01,Bloomsbury,Sociology,138,53.82,12
+Priya,N,1997-03-01,SAGE,Sociology,145,59.45,10
+Priya,N,1997-03-01,Viva,Fiction,89.55,34.92,9
+Priya,N,1997-03-01,Bloomsbury,Economics,132,71.28,12
+Priya,N,1997-03-01,Bloomsbury,Politics,138,67.62,12
+Priya,N,1997-03-01,Routledge,History,120,49.2,6
+Priya,N,1997-03-01,SAGE,Communication,130.5,63.95,9
+Sree Hari,W,1997-03-01,Viva,Communication,160,83.2,10
+Shreekanth,W,1997-03-01,Routledge,Politics,193,88.78,10
+Sree Hari,W,1997-03-01,Bloomsbury,Management,130.5,69.17,9
+Shreekanth,W,1997-03-01,Routledge,Sociology,120,64.8,6
+Soni,S,1997-04-01,Viva,Anthropology,89.55,34.92,9
+Soni,S,1997-04-01,Bloomsbury,Economics,132,71.28,12
+Soni,S,1997-04-01,Bloomsbury,Sociology,138,67.62,12
+Soni,S,1997-04-01,Routledge,Communication,120,49.2,6
+Soni,S,1997-04-01,SAGE,Research,130.5,63.95,9
+Soni,S,1997-04-01,Bloomsbury,Fiction,138,55.2,12
+Soni,S,1997-04-01,SAGE,Politics,145,65.25,10
+Soni,S,1997-04-01,Viva,Economics,89.55,47.46,9
+Mallesh,N,1997-04-01,SAGE,History,72,37.44,6
+Priya,N,1997-04-01,SAGE,Politics,185.4,101.97,12
+Mallesh,N,1997-04-01,Penguin,Management,54,22.68,4
+Mallesh,N,1997-04-01,SAGE,Research,135,49.95,9
+Priya,N,1997-04-01,Bloomsbury,Sociology,132,52.8,12
+Mallesh,N,1997-04-01,Penguin,Politics,90,45,5
+Mallesh,N,1997-04-01,Routledge,Statistics,120,49.2,6
+Priya,N,1997-04-01,McGraw-Hill,Fiction,168,63.84,12
+Mallesh,N,1997-04-01,SAGE,Politics,130.5,54.81,9
+Mallesh,N,1997-04-01,McGraw-Hill,Management,235.2,94.08,12
+Priya,N,1997-04-01,SAGE,Communication,130.5,48.29,9
+Mallesh,N,1997-04-01,Viva,Statistics,160,86.4,10
+Shreerang,W,1997-04-01,SAGE,Sociology,135,74.25,9
+Sree Hari,W,1997-04-01,McGraw-Hill,Politics,235.2,89.38,12
+Shreekanth,W,1997-04-01,McGraw-Hill,Politics,165,77.55,5
+Sree Hari,W,1997-04-01,McGraw-Hill,Management,168,77.28,12
+Rajesh,E,1997-04-01,Bloomsbury,Anthropology,130.5,69.17,9
+Rajesh,E,1997-04-01,McGraw-Hill,History,165,77.55,5
+Rajesh,E,1997-04-01,SAGE,Management,72,37.44,6
+Rajesh,E,1997-04-01,Viva,Research,160,83.2,10
+Rajesh,E,1997-04-01,SAGE,Management,135,74.25,9
+Rajesh,E,1997-04-01,McGraw-Hill,Politics,165,66,5
+Rajesh,E,1997-04-01,Bloomsbury,Politics,130.5,67.86,9
+Soni,S,1997-05-01,McGraw-Hill,Communication,168,78.96,12
+Mahanta,S,1997-05-01,SAGE,Politics,186,102.3,12
+Mahanta,S,1997-05-01,McGraw-Hill,Sociology,168,63.84,12
+Mahanta,S,1997-05-01,SAGE,Politics,130.5,57.42,9
+Mahanta,S,1997-05-01,SAGE,Politics,145,78.3,10
+Soni,S,1997-05-01,Bloomsbury,Management,130.5,61.34,9
+Mallesh,N,1997-05-01,Viva,Anthropology,160,83.2,10
+Priya,N,1997-05-01,Penguin,Economics,54,20.52,4
+Gajanan,N,1997-05-01,SAGE,Research,185.4,100.12,12
+Mallesh,N,1997-05-01,Bloomsbury,Anthropology,132,58.08,12
+Priya,N,1997-05-01,SAGE,Communication,72,32.4,6
+Gajanan,N,1997-05-01,Routledge,Management,120,49.2,6
+Mallesh,N,1997-05-01,SAGE,Research,130.5,63.95,9
+Priya,N,1997-05-01,SAGE,Politics,130.5,57.42,9
+Gajanan,N,1997-05-01,McGraw-Hill,Fiction,282,129.72,12
+Mallesh,N,1997-05-01,Bloomsbury,Statistics,132,50.16,12
+Priya,N,1997-05-01,Routledge,Sociology,193,102.29,10
+Gajanan,N,1997-05-01,SAGE,Communication,185.4,100.12,12
+Shreekanth,W,1997-05-01,McGraw-Hill,Sociology,235.2,122.3,12
+Shreekanth,W,1997-05-01,Routledge,Economics,193,75.27,10
+Shreekanth,W,1997-05-01,SAGE,Management,130.5,48.29,9
+Shreekanth,W,1997-05-01,Routledge,Statistics,193,102.29,10
+Shreekanth,W,1997-05-01,SAGE,Research,145,78.3,10
+Shreekanth,W,1997-05-01,Routledge,Sociology,193,88.78,10
+Shreekanth,W,1997-05-01,McGraw-Hill,Management,235.2,89.38,12
+Raj,S,1997-06-01,Routledge,Research,234,121.68,9
+Raj,S,1997-06-01,SAGE,Management,135,55.35,9
+Raj,S,1997-06-01,Viva,Politics,282,138.18,12
+Raj,S,1997-06-01,Penguin,Politics,54,25.92,4
+Raj,S,1997-06-01,SAGE,Communication,185.4,101.97,12
+Raj,S,1997-06-01,Penguin,Statistics,54,20.52,4
+Raj,S,1997-06-01,SAGE,Sociology,72,36,6
+Raj,S,1997-06-01,SAGE,Politics,135,63.45,9
+Raj,S,1997-06-01,Routledge,Sociology,120,48,6
+Raj,S,1997-06-01,Penguin,Economics,54,22.68,4
+Raj,S,1997-06-01,Routledge,Sociology,234,128.7,9
+Mallesh,N,1997-06-01,SAGE,Communication,135,74.25,9
+Gajanan,N,1997-06-01,SAGE,Fiction,72,36,6
+Priya,N,1997-06-01,Penguin,Economics,90,46.8,5
+Mallesh,N,1997-06-01,SAGE,Communication,104.4,40.72,9
+Gajanan,N,1997-06-01,Penguin,Management,90,46.8,5
+Priya,N,1997-06-01,Bloomsbury,Sociology,138,53.82,12
+Mallesh,N,1997-06-01,Bloomsbury,Economics,138,55.2,12
+Gajanan,N,1997-06-01,SAGE,Management,145,78.3,10
+Priya,N,1997-06-01,Routledge,Management,193,88.78,10
+Mallesh,N,1997-06-01,SAGE,Anthropology,104.4,48.02,9
+Gajanan,N,1997-06-01,SAGE,Sociology,145,78.3,10
+Priya,N,1997-06-01,SAGE,Management,72,39.6,6
+Shreekanth,W,1997-06-01,McGraw-Hill,Sociology,165,66,5
+Shreerang,W,1997-06-01,McGraw-Hill,Politics,165,75.9,5
+Sree Hari,W,1997-06-01,SAGE,Economics,72,37.44,6
+Shreekanth,W,1997-06-01,McGraw-Hill,Statistics,282,143.82,12
+Shreekanth,W,1997-06-01,Penguin,Politics,54,22.68,4
+Shreekanth,W,1997-06-01,SAGE,Statistics,185.4,83.43,12
+Shreekanth,W,1997-06-01,Penguin,Economics,54,25.92,4
+Soni,S,1997-07-01,McGraw-Hill,Economics,168,80.64,12
+Mahanta,S,1997-07-01,SAGE,Sociology,130.5,54.81,9
+Mahanta,S,1997-07-01,SAGE,Management,130.5,50.9,9
+Soni,S,1997-07-01,McGraw-Hill,Management,282,149.46,12
+Mahanta,S,1997-07-01,SAGE,Statistics,104.4,48.02,9
+Soni,S,1997-07-01,McGraw-Hill,Politics,235.2,122.3,12
+Mallesh,N,1997-07-01,Bloomsbury,Anthropology,138,55.2,12
+Mallesh,N,1997-07-01,SAGE,Anthropology,145,65.25,10
+Mallesh,N,1997-07-01,Viva,Sociology,89.55,47.46,9
+Mallesh,N,1997-07-01,McGraw-Hill,Management,168,78.96,12
+Mallesh,N,1997-07-01,SAGE,Politics,186,102.3,12
+Mallesh,N,1997-07-01,McGraw-Hill,Sociology,168,63.84,12
+Mallesh,N,1997-07-01,SAGE,Economics,130.5,57.42,9
+Mallesh,N,1997-07-01,SAGE,Statistics,145,78.3,10
+Mallesh,N,1997-07-01,Bloomsbury,Statistics,130.5,61.34,9
+Mallesh,N,1997-07-01,McGraw-Hill,Research,168,80.64,12
+Mallesh,N,1997-07-01,Bloomsbury,Management,138,55.2,12
+Sree Hari,W,1997-07-01,Bloomsbury,Sociology,130.5,67.86,9
+Shreekanth,W,1997-07-01,SAGE,Communication,72,33.12,6
+Shreerang,W,1997-07-01,Viva,Economics,160,83.2,10
+Sree Hari,W,1997-07-01,SAGE,Management,72,26.64,6
+Sree Hari,W,1997-07-01,Routledge,Management,234,128.7,9
+Sree Hari,W,1997-07-01,SAGE,Sociology,145,71.05,10
+Sree Hari,W,1997-07-01,SAGE,Management,185.4,101.97,12
+Soni,S,1997-08-01,Bloomsbury,Anthropology,138,55.2,12
+Mahanta,S,1997-08-01,McGraw-Hill,Sociology,282,129.72,12
+Soni,S,1997-08-01,SAGE,Sociology,135,64.8,9
+Soni,S,1997-08-01,McGraw-Hill,Economics,235.2,94.08,12
+Mahanta,S,1997-08-01,McGraw-Hill,Management,235.2,129.36,12
+Soni,S,1997-08-01,Routledge,Sociology,193,75.27,10
+Mallesh,N,1997-08-01,Routledge,Communication,234,121.68,9
+Gajanan,N,1997-08-01,SAGE,Communication,135,63.45,9
+Priya,N,1997-08-01,Penguin,Management,54,24.3,4
+Mallesh,N,1997-08-01,Bloomsbury,Statistics,130.5,65.25,9
+Gajanan,N,1997-08-01,Routledge,Sociology,234,91.26,9
+Priya,N,1997-08-01,SAGE,Communication,145,59.45,10
+Mallesh,N,1997-08-01,SAGE,Statistics,145,65.25,10
+Gajanan,N,1997-08-01,Bloomsbury,Fiction,130.5,61.34,9
+Priya,N,1997-08-01,SAGE,Research,130.5,50.9,9
+Mallesh,N,1997-08-01,McGraw-Hill,History,235.2,129.36,12
+Gajanan,N,1997-08-01,Routledge,Politics,193,88.78,10
+Priya,N,1997-08-01,Bloomsbury,Management,132,58.08,12
+Sree Hari,W,1997-08-01,McGraw-Hill,Management,165,75.9,5
+Sree Hari,W,1997-08-01,SAGE,Anthropology,72,33.12,6
+Sree Hari,W,1997-08-01,Viva,Communication,160,86.4,10
+Sree Hari,W,1997-08-01,SAGE,Communication,185.4,100.12,12
+Sree Hari,W,1997-08-01,SAGE,History,72,39.6,6
+Sree Hari,W,1997-08-01,Bloomsbury,Communication,132,58.08,12
+Sree Hari,W,1997-08-01,McGraw-Hill,Fiction,165,75.9,5
+Soni,S,1997-09-01,Routledge,Economics,193,73.34,10
+Mahanta,S,1997-09-01,Routledge,Politics,193,88.78,10
+Soni,S,1997-09-01,Routledge,Management,193,96.5,10
+Mahanta,S,1997-09-01,Bloomsbury,Politics,132,50.16,12
+Mahanta,S,1997-09-01,McGraw-Hill,Communication,282,109.98,12
+Soni,S,1997-09-01,SAGE,Management,130.5,48.29,9
+Ravi,N,1997-09-01,Routledge,Management,193,73.34,10
+Ravi,N,1997-09-01,SAGE,Research,130.5,54.81,9
+Ravi,N,1997-09-01,McGraw-Hill,Politics,282,129.72,12
+Ravi,N,1997-09-01,Routledge,Statistics,193,88.78,10
+Ravi,N,1997-09-01,SAGE,Management,130.5,50.9,9
+Ravi,N,1997-09-01,SAGE,Anthropology,135,64.8,9
+Ravi,N,1997-09-01,Routledge,Anthropology,193,96.5,10
+Shreerang,W,1997-09-01,McGraw-Hill,Statistics,168,62.16,12
+Sree Hari,W,1997-09-01,Viva,Economics,160,86.4,10
+Shreekanth,W,1997-09-01,SAGE,Politics,135,74.25,9
+Shreerang,W,1997-09-01,McGraw-Hill,Politics,168,80.64,12
+Shreerang,W,1997-09-01,Penguin,Sociology,54,22.68,4
+Shreerang,W,1997-09-01,SAGE,Research,135,63.45,9
+Shreerang,W,1997-09-01,Penguin,Communication,54,20.52,4
+Soni,S,1997-10-01,Penguin,Management,54,22.68,4
+Soni,S,1997-10-01,SAGE,Statistics,185.4,100.12,12
+Soni,S,1997-10-01,Penguin,Statistics,90,46.8,5
+Soni,S,1997-10-01,Penguin,Communication,54,24.3,4
+Soni,S,1997-10-01,SAGE,Management,185.4,83.43,12
+Soni,S,1997-10-01,SAGE,Communication,145,71.05,10
+Soni,S,1997-10-01,Penguin,Management,54,21.06,4
+Soni,S,1997-10-01,SAGE,Politics,135,49.95,9
+Gajanan,N,1997-10-01,SAGE,Politics,135,55.35,9
+Priya,N,1997-10-01,Routledge,Research,120,48,6
+Mallesh,N,1997-10-01,SAGE,Management,185.4,83.43,12
+Gajanan,N,1997-10-01,Bloomsbury,Research,132,58.08,12
+Priya,N,1997-10-01,SAGE,Fiction,135,71.55,9
+Mallesh,N,1997-10-01,Viva,Politics,89.55,34.92,9
+Gajanan,N,1997-10-01,Viva,Management,89.55,47.46,9
+Priya,N,1997-10-01,McGraw-Hill,Politics,168,80.64,12
+Mallesh,N,1997-10-01,SAGE,Management,135,64.8,9
+Gajanan,N,1997-10-01,McGraw-Hill,Politics,282,109.98,12
+Priya,N,1997-10-01,McGraw-Hill,Management,235.2,89.38,12
+Mallesh,N,1997-10-01,McGraw-Hill,Research,165,75.9,5
+Shreerang,W,1997-10-01,SAGE,Statistics,186,79.98,12
+Shreekanth,W,1997-10-01,SAGE,Management,185.4,100.12,12
+Sree Hari,W,1997-10-01,McGraw-Hill,Communication,165,66,5
+Shreerang,W,1997-10-01,SAGE,Economics,145,71.05,10
+Shreerang,W,1997-10-01,SAGE,Politics,185.4,100.12,12
+Shreerang,W,1997-10-01,Routledge,Sociology,234,121.68,9
+Shreerang,W,1997-10-01,SAGE,History,72,36,6
+Soni,S,1997-11-01,Routledge,Anthropology,193,102.29,10
+Mahanta,S,1997-11-01,SAGE,Management,145,78.3,10
+Mahanta,S,1997-11-01,Routledge,Politics,193,88.78,10
+Mahanta,S,1997-11-01,McGraw-Hill,Economics,235.2,89.38,12
+Mahanta,S,1997-11-01,McGraw-Hill,Economics,165,75.9,5
+Soni,S,1997-11-01,SAGE,Communication,72,33.12,6
+Soni,S,1997-11-01,Viva,Economics,160,86.4,10
+Gajanan,N,1997-11-01,Viva,Communication,282,138.18,12
+Priya,N,1997-11-01,Penguin,Management,54,22.68,4
+Mallesh,N,1997-11-01,SAGE,Anthropology,145,71.05,10
+Gajanan,N,1997-11-01,Penguin,Statistics,90,36,5
+Priya,N,1997-11-01,Viva,Management,282,152.28,12
+Mallesh,N,1997-11-01,Bloomsbury,Sociology,132,71.28,12
+Gajanan,N,1997-11-01,McGraw-Hill,Politics,168,78.96,12
+Priya,N,1997-11-01,Bloomsbury,Management,138,55.2,12
+Mallesh,N,1997-11-01,Routledge,Management,193,96.5,10
+Gajanan,N,1997-11-01,McGraw-Hill,Politics,235.2,122.3,12
+Priya,N,1997-11-01,McGraw-Hill,Economics,165,75.9,5
+Mallesh,N,1997-11-01,Bloomsbury,Politics,130.5,69.17,9
+Sree Hari,W,1997-11-01,Penguin,Research,54,25.92,4
+Shreerang,W,1997-11-01,Routledge,Anthropology,120,64.8,6
+Sree Hari,W,1997-11-01,SAGE,Sociology,72,39.6,6
+Shreekanth,W,1997-11-01,Bloomsbury,Management,130.5,67.86,9
+Shreekanth,W,1997-11-01,SAGE,Communication,135,63.45,9
+Shreekanth,W,1997-11-01,Penguin,Management,90,46.8,5
+Shreekanth,W,1997-11-01,SAGE,Communication,135,55.35,9
+Shreekanth,W,1997-11-01,Routledge,Management,234,121.68,9
+Kunj,E,1997-11-01,McGraw-Hill,Economics,168,62.16,12
+Kunj,E,1997-11-01,SAGE,Statistics,186,79.98,12
+Kunj,E,1997-11-01,Routledge,Research,120,64.8,6
+Kunj,E,1997-11-01,McGraw-Hill,Politics,168,77.28,12
+Kunj,E,1997-11-01,McGraw-Hill,Sociology,282,143.82,12
+Kunj,E,1997-11-01,SAGE,Sociology,72,26.64,6
+Kunj,E,1997-11-01,McGraw-Hill,Management,168,80.64,12
+Kunj,E,1997-11-01,SAGE,Sociology,145,71.05,10
+Mahanta,S,1997-12-01,Bloomsbury,Politics,132,58.08,12
+Mahanta,S,1997-12-01,SAGE,Management,104.4,40.72,9
+Mahanta,S,1997-12-01,Bloomsbury,Fiction,130.5,65.25,9
+Mahanta,S,1997-12-01,Bloomsbury,Research,132,58.08,12
+Mahanta,S,1997-12-01,Penguin,Statistics,90,36,5
+Mahanta,S,1997-12-01,SAGE,Communication,130.5,58.73,9
+Mahanta,S,1997-12-01,Bloomsbury,Communication,132,52.8,12
+Mahanta,S,1997-12-01,SAGE,Economics,72,32.4,6
+Gajanan,N,1997-12-01,Penguin,Sociology,54,25.92,4
+Mallesh,N,1997-12-01,Routledge,Sociology,234,128.7,9
+Mallesh,N,1997-12-01,Penguin,Statistics,54,21.06,4
+Gajanan,N,1997-12-01,SAGE,Communication,130.5,58.73,9
+Mallesh,N,1997-12-01,Routledge,Management,234,114.66,9
+Mallesh,N,1997-12-01,Bloomsbury,Economics,138,67.62,12
+Gajanan,N,1997-12-01,SAGE,Politics,186,102.3,12
+Mallesh,N,1997-12-01,Routledge,Management,193,73.34,10
+Mallesh,N,1997-12-01,McGraw-Hill,Fiction,282,149.46,12
+Gajanan,N,1997-12-01,Routledge,Economics,193,75.27,10
+Mallesh,N,1997-12-01,SAGE,Sociology,72,33.12,6
+Mallesh,N,1997-12-01,McGraw-Hill,Research,165,77.55,5
+Sree Hari,W,1997-12-01,SAGE,Politics,185.4,101.97,12
+Shreekanth,W,1997-12-01,McGraw-Hill,Politics,168,77.28,12
+Shreerang,W,1997-12-01,Bloomsbury,Management,132,58.08,12
+Sree Hari,W,1997-12-01,McGraw-Hill,Fiction,168,62.16,12
+Sree Hari,W,1997-12-01,Routledge,Research,120,48,6
+Sree Hari,W,1997-12-01,Penguin,Economics,54,24.3,4
+Sree Hari,W,1997-12-01,Viva,Fiction,282,138.18,12
+Sree Hari,W,1997-12-01,SAGE,Communication,135,55.35,9
