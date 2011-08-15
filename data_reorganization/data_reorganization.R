@@ -2,9 +2,11 @@
 # http://www.macalester.edu/~kaplan/startingwithr/Data-Reorganization.pdf
 
 # Read data
-setwd("/Users/sophian/git/baguette/data_reorganization/")
+setwd("/Users/sbensaou/git/baguette/data_reorganization/")
 osteo <- read.table("Osteoporosis.csv", header = TRUE, sep = ",")
 head(osteo)
+
+library(reshape)
 
 # Validating the Data
 ## Is there a unique ID for each person?
@@ -181,3 +183,31 @@ mean(osteo$dirwec2, na.rm = TRUE)
 mean(osteo$dirwec3, na.rm = TRUE)
 mean(osteo$dirwec4, na.rm = TRUE)
 
+# Documenting that you have done the right thing
+check.var <- function(orig, new) {
+  origmeans = aggregate(occasions[[new]], list(season = occasions$time),
+                        mean, na.rm = TRUE)
+  winter = mean(osteo[[paste(orig, "1", sep = "")]],
+                na.rm = TRUE)
+  spring = mean(osteo[[paste(orig, "2", sep = "")]],
+                na.rm = TRUE)
+  summer = mean(osteo[[paste(orig, "3", sep = "")]],
+                na.rm = TRUE)
+  fall = mean(osteo[[paste(orig, "4", sep = "")]],
+              na.rm = TRUE)
+  return(c(subset(origmeans, season == "winter")$x == winter,
+           subset(origmeans, season == "spring")$x == spring,
+           subset(origmeans, season == "summer")$x == summer,
+           subset(origmeans, season == "fall")$x == fall))
+}
+
+check.var("beck_a", "beck.anxiety")
+
+check.var("beck_d", "beck.depression")
+
+# Finishing Up!
+## Does anxiety vary with the seasons?
+xtable(anova(lm(beck.anxiety ~ time + as.factor(id), data = occasions)))
+
+## Does BMI vary with the seasons?
+xtable(anova(lm(irritability ~ time + as.factor(id), data = occasions)))
