@@ -1,4 +1,3 @@
-
 # OBJECTIVE: Insert MySQL data into an appropriate array/hash in Ruby
 # Use sophian_test.iknow_15k
 # Make an array of users. Each element of that array is itself a hash.
