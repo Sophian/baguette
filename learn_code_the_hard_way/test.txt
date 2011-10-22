@@ -1,0 +1,3 @@
+open
+is the same as new
+so no need to truncate
