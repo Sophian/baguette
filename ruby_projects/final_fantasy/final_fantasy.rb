@@ -1,7 +1,6 @@
 ### FINAL FANTASY ###
 
 require 'start_screen'
-puts "start_screen required"
 
 class Game < StartScreen
   
@@ -76,5 +75,5 @@ LOGO
 
 end
 
-a_game = Game.new(:start_game)
+a_game = Game.new(:new_game)
 a_game.play()
