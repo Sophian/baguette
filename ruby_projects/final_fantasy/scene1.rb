@@ -264,10 +264,8 @@ falls. You help her up and spring away. The reactor emits a ring
 of fire as it explodes spectacularly against the night sky.
 TEXT
 
-  puts "\nEND OF SCENE 1\n"
-  puts "SAVE BEFORE MOVING TO SCENE 2?"
-  #return :scene2
-  next_scene = Scene2.new
+  puts "\nEND OF SCENE 1\n\n"
+  next_scene = Scene2.new(@name)
   next_scene.play()
   end
 

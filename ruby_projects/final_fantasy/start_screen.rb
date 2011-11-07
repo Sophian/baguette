@@ -22,9 +22,8 @@ class StartScreen < Scene1
     @action = gets.chomp()
 
     if @action == "New Game"
-      next_scene = Scene1.new
+      next_scene = Scene1.new(@name)
       next_scene.play
-      #return :scene1
     elsif @action == "Continue"
       return :continue
     elsif @action == "exit"
