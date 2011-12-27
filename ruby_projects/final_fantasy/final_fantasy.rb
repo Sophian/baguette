@@ -6,11 +6,11 @@ class Game < StartScreen
   
   def initialize(start)
     @start = start
-    puts "in init @start = " + @start.inspect
+    #puts "in init @start = " + @start.inspect
   end
 
   def play()
-    puts "@start => " + @start.inspect
+    #puts "@start => " + @start.inspect
     next_room = @start
 
     while true
